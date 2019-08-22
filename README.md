@@ -1,2 +1,2 @@
 # Projects-in-Datacamp
-### Practising code with projects on data camp.
+### Completed data camp projects. 
